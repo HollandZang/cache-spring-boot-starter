@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.holland.spring.cache.MyCachingConfigurer,\
+com.holland.spring.cache.MyCacheResolver
